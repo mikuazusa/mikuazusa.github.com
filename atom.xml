@@ -4,7 +4,7 @@
   <title><![CDATA[Azusa Octopress]]></title>
   <link href="http://mikuazusa.github.io/atom.xml" rel="self"/>
   <link href="http://mikuazusa.github.io/"/>
-  <updated>2013-06-06T03:27:22+09:00</updated>
+  <updated>2013-06-06T03:35:46+09:00</updated>
   <id>http://mikuazusa.github.io/</id>
   <author>
     <name><![CDATA[Azusa]]></name>
@@ -44,7 +44,12 @@ dog&rsquo;s back.</p>
     <link href="http://mikuazusa.github.io/blog/2013/06/06/ni-hao-%21/"/>
     <updated>2013-06-06T02:02:00+09:00</updated>
     <id>http://mikuazusa.github.io/blog/2013/06/06/ni-hao-!</id>
-    <content type="html"><![CDATA[<p>你好，我是这个博客的作者。请多多指教！</p>
+    <content type="html"><![CDATA[<p>你好，我是这个博客的作者。请多多指教！
+关于这个博客，
+如果您有更多的意见，
+请投递您的意见到这里：<a href="&#x6d;&#97;&#105;&#x6c;&#116;&#x6f;&#58;&#102;&#117;&#x63;&#x6b;&#x40;&#x67;&#x6d;&#97;&#105;&#x6c;&#46;&#99;&#x6f;&#x6d;">&#x66;&#117;&#99;&#x6b;&#x40;&#x67;&#109;&#x61;&#x69;&#x6c;&#46;&#x63;&#111;&#109;</a></p>
+
+<p>谢谢您！</p>
 ]]></content>
   </entry>
   
