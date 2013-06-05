@@ -4,7 +4,7 @@
   <title><![CDATA[Azusa Octopress]]></title>
   <link href="http://mikuazusa.github.io/atom.xml" rel="self"/>
   <link href="http://mikuazusa.github.io/"/>
-  <updated>2013-06-06T02:48:45+09:00</updated>
+  <updated>2013-06-06T02:56:12+09:00</updated>
   <id>http://mikuazusa.github.io/</id>
   <author>
     <name><![CDATA[Azusa]]></name>
@@ -18,7 +18,24 @@
     <link href="http://mikuazusa.github.io/blog/2013/06/06/test/"/>
     <updated>2013-06-06T02:29:00+09:00</updated>
     <id>http://mikuazusa.github.io/blog/2013/06/06/test</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h1>A First Level Header</h1>
+
+<h2>A Second Level Header</h2>
+
+<p>Now is the time for all good men to come to
+the aid of their country. This is just a
+regular paragraph.</p>
+
+<p>The quick brown fox jumped over the lazy
+dog&rsquo;s back.</p>
+
+<h3>Header 3</h3>
+
+<blockquote><p>This is a blockquote.</p>
+
+<p>This is the second paragraph in the blockquote.</p>
+
+<h2>This is an H2 in a blockquote</h2></blockquote>
 ]]></content>
   </entry>
   
