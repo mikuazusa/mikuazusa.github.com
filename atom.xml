@@ -4,7 +4,7 @@
   <title><![CDATA[Azusa Octopress]]></title>
   <link href="http://mikuazusa.github.io/atom.xml" rel="self"/>
   <link href="http://mikuazusa.github.io/"/>
-  <updated>2013-06-06T02:27:45+09:00</updated>
+  <updated>2013-06-06T02:29:15+09:00</updated>
   <id>http://mikuazusa.github.io/</id>
   <author>
     <name><![CDATA[Azusa]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://mikuazusa.github.io/blog/2013/06/06/test/"/>
+    <updated>2013-06-06T02:29:00+09:00</updated>
+    <id>http://mikuazusa.github.io/blog/2013/06/06/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[你好！]]></title>
