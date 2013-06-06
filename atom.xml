@@ -4,7 +4,7 @@
   <title><![CDATA[Azusa Octopress]]></title>
   <link href="http://mikuazusa.github.io/atom.xml" rel="self"/>
   <link href="http://mikuazusa.github.io/"/>
-  <updated>2013-06-06T14:38:48+09:00</updated>
+  <updated>2013-06-06T15:18:53+09:00</updated>
   <id>http://mikuazusa.github.io/</id>
   <author>
     <name><![CDATA[Azusa]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[尝试使用Octopress重构博客]]></title>
+    <link href="http://mikuazusa.github.io/blog/2013/06/06/chang-shi-shi-yong-octopresszhong-gou-bo-ke/"/>
+    <updated>2013-06-06T15:05:00+09:00</updated>
+    <id>http://mikuazusa.github.io/blog/2013/06/06/chang-shi-shi-yong-octopresszhong-gou-bo-ke</id>
+    <content type="html"><![CDATA[<h1>大家好，我是Azusa。</h1>
+
+<blockquote><p>以前用惯了WordPress，一直觉得WordPress的代码简介功能丰富易用，非常爽。
+但后来慢慢用着用着，也发现了WordPress的过多功能反而会导致功能冗余，一部分用户可能仅仅关注内容。
+后来接触了Node.js，初次体验了Express框架，这个轻量级框架太吸引人了，全静态的框架设计让人觉得欲罢不能。再加之简洁明了的代码和设计，可以让人随意去做<em>拓展修改</em>。
+再到后来，看到了octopress开始流行，搭配git的使用构建的轻量级博客能带给用户更多崭新的体验，其中最重要的就是<strong>让所有人更关注内容</strong>。
+以上就是这个博客开始的契机了&hellip;以后会往这边积累更多的文章和一些工作经验。</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Test]]></title>
@@ -44,7 +59,7 @@ dog&rsquo;s back.</p>
     <link href="http://mikuazusa.github.io/blog/2013/06/06/ni-hao-%21/"/>
     <updated>2013-06-06T02:02:00+09:00</updated>
     <id>http://mikuazusa.github.io/blog/2013/06/06/ni-hao-!</id>
-    <content type="html"><![CDATA[<p>你好，我是这个博客的作者。请多多指教！关于这个博客，如果您有更多的意见，请投递您的意见到这里：<a href="&#x6d;&#x61;&#105;&#x6c;&#116;&#x6f;&#x3a;&#102;&#117;&#x63;&#x6b;&#x40;&#x67;&#109;&#97;&#105;&#108;&#46;&#x63;&#111;&#109;">&#x66;&#117;&#x63;&#107;&#64;&#x67;&#109;&#97;&#x69;&#x6c;&#x2e;&#x63;&#111;&#109;</a> 谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你
+    <content type="html"><![CDATA[<p>你好，我是这个博客的作者。请多多指教！关于这个博客，如果您有更多的意见，请投递您的意见到这里：<a href="&#x6d;&#97;&#105;&#108;&#116;&#111;&#x3a;&#x66;&#117;&#x63;&#x6b;&#64;&#103;&#x6d;&#x61;&#x69;&#108;&#x2e;&#99;&#x6f;&#109;">&#102;&#x75;&#99;&#x6b;&#x40;&#103;&#x6d;&#x61;&#x69;&#x6c;&#46;&#x63;&#x6f;&#x6d;</a> 谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你谢谢你
 谢谢您！</p>
 ]]></content>
   </entry>
